@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "885209556024",
+    "firebase_url": "https://dislec-login-default-rtdb.firebaseio.com",
+    "project_id": "dislec-login",
+    "storage_bucket": "dislec-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885209556024:android:0d2db2d8fb66b1745ef2cd",
+        "android_client_info": {
+          "package_name": "com.dislec.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885209556024-5nhne13qv0q0ddpnlfjirftj3cq7litb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMx7-aFFNHT1egnDom4qFHsuNajzOijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885209556024-5nhne13qv0q0ddpnlfjirftj3cq7litb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885209556024:android:3e1689a121bd08595ef2cd",
+        "android_client_info": {
+          "package_name": "com.example.dislec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885209556024-5nhne13qv0q0ddpnlfjirftj3cq7litb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMx7-aFFNHT1egnDom4qFHsuNajzOijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885209556024-5nhne13qv0q0ddpnlfjirftj3cq7litb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
